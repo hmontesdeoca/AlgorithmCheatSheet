@@ -1,2 +1,2 @@
 # AlgorithmCheatSheet
-A simple studying tool to help me remember algorithms 
+An andoid application to help me study algorithms
